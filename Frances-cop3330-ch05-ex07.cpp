@@ -36,7 +36,6 @@ try{
 	std::cout << "\nX is: " << x1 << " and " << x2 << "\n";
 	std::cout << '\n';
 	system("pause>0");
-	return 0;
 }
 
 
